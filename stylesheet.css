@@ -1,3 +1,6 @@
+body{
+    background-color:  rgb(231, 70, 55);;
+}
 .makeitwhite{
     color: black;
 }
@@ -42,4 +45,3 @@ padding-top: 0;
 padding-right: 0;
 padding-bottom: 0;
 }
-
