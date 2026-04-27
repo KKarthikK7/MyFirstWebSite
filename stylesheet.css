@@ -1,9 +1,6 @@
 body{
     background-color:  rgb(231, 70, 55);;
 }
-.makeitwhite{
-    color: black;
-}
 h4{
     font-size: 18px;
 }
@@ -19,4 +16,12 @@ h4{
     padding-right: 0;
     padding-bottom: 0;
     position:relative; left: 20px;
+}
+.fixed{
+    color: black;
+    position: fixed;bottom: 14px; right: 14px;
+    border: 2px solid black;
+}
+body>h1{
+    position: relative;left: 70px;
 }
