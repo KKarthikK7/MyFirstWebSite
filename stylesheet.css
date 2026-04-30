@@ -18,6 +18,8 @@ h4{
     position: fixed;bottom: 14px; right: 14px;
     color: black;
     border: 2px solid black;
+    height:36px;
+    width:118px;
 }
 h1{
     margin-left: 70px;
@@ -38,9 +40,5 @@ h1{
         }
         .container{
             margin-left: -30px;
-        }
-             }
-.fixed{
-            font-size: 44px;
         }
              }
