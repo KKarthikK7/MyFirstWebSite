@@ -43,18 +43,23 @@ h1{
     font-size: 25px; !important
         }
         h4{
-            font-size: 30px;
+            font-size: 25px;
         }
         #tamasha img{
             width: 500px;
             height:auto;
         } 
         #batman img{
-            width: 60%;
+            display: inline;
+            width: 40%;
             height: auto;
         }
         #kabirsingh img{
-            width: max-content;
+            width: 50%;
+            height: auto;
+        }
+        #mahanati{
+            width: 50%;
             height: auto;
         }
     
