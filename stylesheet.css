@@ -26,9 +26,8 @@ h1{
 
 /*media query for devices under 600px css code*/
 @media(max-width:600px){
-    body{
         h1{
-     margin-left: 30px;
+     margin-left: 50px;
      padding-top: 10px;
         }
         div{
@@ -39,6 +38,6 @@ h1{
         }
         .container{
             margin-left: -30px;
+            padding-left: -12px;
         }
              }
-    }
