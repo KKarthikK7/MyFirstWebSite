@@ -40,8 +40,6 @@ h1{
             margin-left: -30px;
         }
         .fixed{
-    height: 36px;
-    width: 118px;
-    font-size: 20px;
+    font-size: 25px; !important
         }
         
