@@ -62,4 +62,7 @@ h1{
             width: 85%;
             height: auto;
         }
+    body{
+        padding-right: 10px;
+    }
     
