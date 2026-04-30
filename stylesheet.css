@@ -42,4 +42,8 @@ h1{
         .fixed{
     font-size: 25px; !important
         }
+        #tamasha img{
+            width: 400px;
+            height:auto;
+        } 
         
