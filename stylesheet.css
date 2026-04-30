@@ -34,7 +34,7 @@ h1{
             width: 550px;
         }
         .movie{
-            margin-right: -230px;
+            margin-right: -250px;
         }
         .container{
             margin-left: -30px;
@@ -42,8 +42,19 @@ h1{
         .fixed{
     font-size: 25px; !important
         }
+        h4{
+            font-size: 22px;
+        }
         #tamasha img{
             width: 500px;
             height:auto;
         } 
-        
+        #batman img{
+            width: 60%;
+            height: auto;
+        }
+        #kabirsingh{
+            width: max-content;
+            height: auto;
+        }
+    
