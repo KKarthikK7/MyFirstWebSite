@@ -10,7 +10,8 @@ h4{
 .movie{
     border: 9px solid black;
     margin: 8px;
-    margin-right: 350px;
+    height: 517px;
+    width: 1054px;
     padding-left: 35px;
     position:relative; left: 10px;
 }
@@ -31,11 +32,11 @@ h1{
      padding-top: 10px;
         }
         .movie{
-            margin-right: -250px;
             width: 550px;
+            margin-right: -250px;
         }
         .container{
-            margin-left: -30px;
+            margin-left: -40px;
         }
         .fixed{
     font-size: 25px !important; 
