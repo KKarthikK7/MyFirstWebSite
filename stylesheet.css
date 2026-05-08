@@ -19,6 +19,7 @@ h4{
     position: fixed;bottom: 14px; right: 14px;
     color: black;
     border: 2px solid black;
+    border-raduis:2px;
     }
 h1{
     margin-left: 70px;
